@@ -266,4 +266,5 @@ PRODUCT_COPY_FILES += \
   vendor/samsung/hero-common/proprietary/sbin/cbd:root/sbin/cbd \
   vendor/samsung/hero-common/proprietary/vendor/lib/libhwc2on1adapter.so:system/vendor/lib/libhwc2on1adapter.so \
   vendor/samsung/hero-common/proprietary/vendor/lib64/libhwc2on1adapter.so:system/vendor/lib64/libhwc2on1adapter.so \
-  vendor/samsung/hero-common/proprietary/bin/netd:system/bin/netd
+  vendor/samsung/hero-common/proprietary/bin/netd:system/bin/netd \
+  vendor/samsung/hero-common/proprietary/bin/surfaceflinger:system/bin/surfaceflinger
